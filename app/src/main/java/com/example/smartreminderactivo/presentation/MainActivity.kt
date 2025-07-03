@@ -19,6 +19,7 @@ import androidx.wear.compose.material.Button
 import androidx.wear.compose.material.Text
 import com.example.smartreminderactive.presentation.theme.SmartReminderActiveTheme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
